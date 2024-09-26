@@ -1,0 +1,4 @@
+# Ignorar fitxers de Docker
+/data
+/logs
+*.log
